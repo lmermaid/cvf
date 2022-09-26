@@ -1,3 +1,5 @@
 theme: jekyll-theme-leap-day
 title: 💻✒️📄🌟
 description: Lisa Menez's CV
+plugins:
+  - jekyll-openmoji

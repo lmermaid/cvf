@@ -1,6 +1,6 @@
 # Lisa MENEZ
 
-_Economist Data Scientist in Paris :fr:_ <br>
+_Economiste / Experte données :fr:_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
@@ -8,7 +8,7 @@ _Economist Data Scientist in Paris :fr:_ <br>
 ## 👩🏼‍💻 Postes 
 <br>
 
-**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_<br>
+**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Présent)_<br>
 
 Les administrations cherchent à se moderniser et ont de nouveaux
 besoins en matière de compréhension des problèmes financiers
