@@ -7,7 +7,7 @@ _Economist Data Scientist in Paris 🇩🇪_ <br>
 ## 👩🏼‍💻 Postes 
 <br><br>
 
-**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
+**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_<br>
 
 Les administrations cherchent à se moderniser et ont de nouveaux
 besoins en matière de compréhension des problèmes financiers
@@ -21,8 +21,7 @@ en évidence de nouveaux faits stylisés.
 ![Universités](/assets/images/BNR.png)
 
 <br>
-**Doctorante (PhD)** @ [GREDEG / UCA&CNRS](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_  <br>
-<br>
+**Doctorante (PhD)** @ [GREDEG / UCA&CNRS](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_<br>
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
 (échanges de biens et de connaissances) dans la croissance et dans les
@@ -36,24 +35,23 @@ Durant cette période, je suis responsable des enseignements (TD) pour
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
 <br>
-**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_  <br>
-<br>
+**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_<br>
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
-## 👩🏼‍💻 Parcours Universitaire
-<br><br>
+## 👩🏼‍💻 Parcours Universitaire 
+<br>
 
 **Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
 **Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
 bénéfices régionaux à l’agglomération : le cas européen*"
 
-<br><br>
-
 - **Summer School of Econometrics** Barcelona School of Economics (2016)
 <br>
+
 - **Master Economie de l’Innovation** UCA (2013-2015)
 <br>
+
 - **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
 <br>
 
