@@ -1,7 +1,7 @@
 all:
 	git add --all
 	git commit -m "last commit"
-	git push -u origin main
+	git push
 
 init:
 	echo "# tutu" >> README.md
@@ -10,4 +10,5 @@ init:
 	git commit -m "first commit"
 	git branch -M main
 	git remote add origin git@github.com:lmermaid/cvf.git
-	git push -u origin main
+	# On push sur main
+	git push -u origin main 
