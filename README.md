@@ -42,7 +42,7 @@ Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
 <br>
-## 👩🏼‍💻 Parcours Universitaire 
+## :woman_student: Parcours Universitaire 
 <br>
 
 **Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
