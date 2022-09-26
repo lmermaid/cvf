@@ -31,12 +31,12 @@ obtenus sont basés sur des modèles paramétriques et non-paramétriques
 à la frontière entre les modèles à facteurs communs et les modèles
 d’économétrie spatiale sur panels.
 
-Durant cette période, je suis responsable des enseignements (TD) pour
+Durant cette période, je suis **responsable des enseignements** (TD) pour
 - Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
 <br>
-**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_<br>
+**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html) _(2015)_<br>
 
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
@@ -68,8 +68,8 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 <br>
 ## 📌 Mes "outils" Informatiques / Programmation
 
-- R 
-- SQL 
+- R (GeoSpatial, ...) 
+- SQL(MariaDB)
 - Stata 
 - Python 
 - Linux/Win/Mac
