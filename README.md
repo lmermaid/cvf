@@ -37,6 +37,7 @@ Durant cette période, je suis responsable des enseignements (TD) pour
 
 <br>
 **Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_<br>
+
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
@@ -55,7 +56,6 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 <br>
 ## 👩🏼‍💻 Mes "outils" d'analyse des données
-<br>
 
 - Outils de régression linéaire (t-tests, ANOVA)
 - Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
@@ -66,8 +66,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Generalized additive & non-parametric models
 
 <br>
-## 📌 Mes outils Informatiques / Programmation
-<br>
+## 📌 Mes "outils" Informatiques / Programmation
 
 - R 
 - SQL 
