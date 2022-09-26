@@ -57,13 +57,13 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 ## 👩🏼‍💻 Mes "outils" d'analyse des données
 <br>
 
--Outils de régression linéaire (t-tests, ANOVA)
--Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
--Construction et analyse de réseaux
--Analyse de séries temporelles (ARIMA & extrapolation - prédiction)
--Common factors models
--Spatial models
--Generalized additive & non-parametric models
+- Outils de régression linéaire (t-tests, ANOVA)
+- Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
+- Construction et analyse de réseaux
+- Analyse de séries temporelles (ARIMA & extrapolation - prédiction)
+- Common factors models
+- Spatial models
+- Generalized additive & non-parametric models
 
 <br>
 ## 📌 Mes outils Informatiques / Programmation
