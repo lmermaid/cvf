@@ -6,7 +6,7 @@ _Economist Data Scientist in Paris 🇩🇪_ <br>
 
 ## 👩🏼‍💻 Postes
 
-**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du GTrésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
+**Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
 
 Les administrations cherchent à se moderniser et ont de nouveaux
 besoins en matière de compréhension des problèmes financiers
@@ -19,7 +19,7 @@ en évidence de nouveaux faits stylisés.
 
 ![Universités](/assets/images/BNR.png)
 
-**Doctorante (PhD)** @ [GREDEG /_CNRS&UCA](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_  <br>
+**Doctorante (PhD)** @ [GREDEG / CNRS&UCA](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_  <br>
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
 (échanges de biens et de connaissances) dans la croissance et dans les
@@ -32,7 +32,7 @@ Durant cette période, je suis responsable des enseignements (TD) pour
 - Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
-**Chargée d'étude** @ [Eurolio](https://gredeg.univ-cotedazur.fr) _(2015)_  <br>
+**Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_  <br>
 
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
@@ -43,6 +43,10 @@ Alpes-Maritimes et Bouches-du-Rhône.
 **Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
 bénéfices régionaux à l’agglomération : le cas européen*"
 
+
+- **Summer School of Econometrics** Barcelona School of Economics (2016)
+- **Master Economie de l’Innovation** UCA (2013-2015)
+- **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
 
 
 ## 📌 Volunteering
