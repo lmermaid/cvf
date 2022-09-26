@@ -1,6 +1,6 @@
 # Lisa MENEZ
 
-_Economist Data Scientist in Paris
+_Economist Data Scientist in Paris 🇩🇪_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
