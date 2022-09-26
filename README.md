@@ -40,8 +40,8 @@ Alpes-Maritimes et Bouches-du-Rhône.
 ## 👩🏼‍💻 Parcours Universitaire
 
 ** Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
-**Titre** : "Effets des processus d’intégration commerciale et technologique sur les
-bénéfices régionaux à l’agglomération : le cas européen"
+**Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
+bénéfices régionaux à l’agglomération : le cas européen*"
 
 
 
