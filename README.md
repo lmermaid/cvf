@@ -17,7 +17,7 @@ tratives et permet de fournir de nouvelles visualisations des métriques par mé
 
 ![plot](./assets/images/BNR.png)
 
-** Doctorante (PhD) @ [GREDEG] (https://gredeg.univ-cotedazur.fr)
+** Doctorante (PhD) @ [GREDEG](https://gredeg.univ-cotedazur.fr)
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique (échanges de
 biens et de connaissances) dans la croissance et dans les phénomènes d’agglomération
