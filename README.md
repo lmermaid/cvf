@@ -6,7 +6,7 @@ _Economist Data Scientist in Paris 🇩🇪_ <br>
 
 ## 👩🏼‍💻 Professionnal  Experience
 
-**Adj. au chef de bureau "Industrie & Innovation" @ [DGTrésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
+** Adj. au chef de bureau "Industrie & Innovation" @ [DGTrésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
 
 Les administrations cherchent à se moderniser et ont de nouveaux besoins en matière
 de compréhension des problèmes financiers rencontrés par les universités. Je construis
@@ -15,9 +15,9 @@ fonctionnements. Ce projet s’appuie sur l’appariemment de plusieurs bases ad
 tratives et permet de fournir de nouvelles visualisations des métriques par méthode de
 "clustering" mettant ainsi en évidence de nouveaux faits stylisés.
 
-![plot](/assets/images/BNR.png)
+![plot](./assets/images/BNR.png)
 
-**Doctorante (PhD) @ [GREDEG] (https://gredeg.univ-cotedazur.fr)
+** Doctorante (PhD) @ [GREDEG] (https://gredeg.univ-cotedazur.fr)
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique (échanges de
 biens et de connaissances) dans la croissance et dans les phénomènes d’agglomération
