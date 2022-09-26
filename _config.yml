@@ -1,6 +1,7 @@
 theme: jekyll-theme-leap-day
 plugins:
   - jemoji
+# only these emoji !! https://github.com/jekyll/jemoji
 title: 💻✒️📄🌟
 description: Lisa Menez's CV
 

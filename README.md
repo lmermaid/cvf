@@ -31,7 +31,7 @@ obtenus sont basés sur des modèles paramétriques et non-paramétriques
 à la frontière entre les modèles à facteurs communs et les modèles
 d’économétrie spatiale sur panels.
 
-Durant cette période, je suis **responsable des enseignements** (TD) pour
+:woman_teacher: Durant cette période, je suis **responsable des enseignements** (TD) pour
 - Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
