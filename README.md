@@ -4,7 +4,8 @@ _Economist Data Scientist in Paris 🇩🇪_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
-## 👩🏼‍💻 Postes
+## 👩🏼‍💻 Postes 
+<br><br>
 
 **Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_ <br>
 
@@ -19,7 +20,9 @@ en évidence de nouveaux faits stylisés.
 
 ![Universités](/assets/images/BNR.png)
 
+<br>
 **Doctorante (PhD)** @ [GREDEG / CNRS&UCA](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_  <br>
+<br>
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
 (échanges de biens et de connaissances) dans la croissance et dans les
@@ -32,21 +35,44 @@ Durant cette période, je suis responsable des enseignements (TD) pour
 - Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
+<br>
 **Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html)) _(2015)_  <br>
-
+<br>
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
 ## 👩🏼‍💻 Parcours Universitaire
+<br><br>
 
 **Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
 **Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
 bénéfices régionaux à l’agglomération : le cas européen*"
 
+<br><br>
 
 - **Summer School of Econometrics** Barcelona School of Economics (2016)
+<br>
 - **Master Economie de l’Innovation** UCA (2013-2015)
+<br>
 - **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
+<br>
 
+## 👩🏼‍💻 Mes "outils"
+<br><br>
+
+-Outils de régression linéaire (t-tests, ANOVA)
+
+-Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
+
+-Construction et analyse de réseaux
+
+-Analyse de séries temporelles (ARIMA & extrapolation - prédiction)
+
+-Common factors models
+
+-Spatial models
+
+-Generalized additive & non-parametric models
 
 ## 📌 Volunteering
+<br><br>
