@@ -1,6 +1,6 @@
 # Lisa MENEZ
 
-_Economiste / Experte données :fr:_ <br>
+_Economiste / Experte en données :fr:_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
@@ -51,10 +51,16 @@ Alpes-Maritimes et Bouches-du-Rhône.
 bénéfices régionaux à l’agglomération : le cas européen*"
 
 **Jury** :
+- Catherine Baumont (Pr Université de Bourgogne)
+- Flora Bellone (Pr UCA)
+- Antonio Musolesi (Pr Università degli Studi di Ferrara)
+- Lionel Nesta (Pr UCA)
 
-- **Summer School of Econometrics** Barcelona School of Economics (2016)
-- **Master Economie de l’Innovation** UCA (2013-2015)
-- **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
+**Summer School of Econometrics** Barcelona School of Economics (2016)
+
+**Master Economie de l’Innovation** UCA (2013-2015)
+
+**Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
 
 <br>
 ## :hammer_and_wrench: Mes "outils" d'analyse des données
