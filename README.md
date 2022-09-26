@@ -4,8 +4,9 @@ _Economist Data Scientist in Paris 🇩🇪_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
+<br>
 ## 👩🏼‍💻 Postes 
-<br><br>
+<br>
 
 **Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Present)_<br>
 
@@ -27,7 +28,7 @@ Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
 (échanges de biens et de connaissances) dans la croissance et dans les
 phénomènes d’agglomération des activités en Europe. Les résultats
 obtenus sont basés sur des modèles paramétriques et non-paramétriques
-à la frontière entre les modèles à facteurs com- muns et les modèles
+à la frontière entre les modèles à facteurs communs et les modèles
 d’économétrie spatiale sur panels.
 
 Durant cette période, je suis responsable des enseignements (TD) pour
@@ -39,38 +40,41 @@ Durant cette période, je suis responsable des enseignements (TD) pour
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
+<br>
 ## 👩🏼‍💻 Parcours Universitaire 
 <br>
 
 **Doctorat en Sciences Économiques** @ [GREDEG / UCA&CNRS](www.unice.fr)  _(Sept 2015 - Déc 2020)_ <br>
 **Titre** : "*Effets des processus d’intégration commerciale et technologique sur les
 bénéfices régionaux à l’agglomération : le cas européen*"
+**Jury** :
 
 - **Summer School of Econometrics** Barcelona School of Economics (2016)
-<br>
-
 - **Master Economie de l’Innovation** UCA (2013-2015)
-<br>
-
 - **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
-<br>
 
-## 👩🏼‍💻 Mes "outils"
-<br><br>
+<br>
+## 👩🏼‍💻 Mes "outils" d'analyse des données
+<br>
 
 -Outils de régression linéaire (t-tests, ANOVA)
-
 -Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
-
 -Construction et analyse de réseaux
-
 -Analyse de séries temporelles (ARIMA & extrapolation - prédiction)
-
 -Common factors models
-
 -Spatial models
-
 -Generalized additive & non-parametric models
+
+<br>
+## 📌 Mes outils Informatiques / Programmation
+<br>
+
+-R 
+-SQL 
+-Stata 
+-Python 
+-Linux/Win/Mac
+
 
 ## 📌 Volunteering
 <br><br>
