@@ -57,7 +57,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - **Licence Economie-Gestion** UCA & University of Virginia (USA) (2010-2013)
 
 <br>
-## 👩🏼‍💻 Mes "outils" d'analyse des données
+## :hammer_and_wrench: Mes "outils" d'analyse des données
 
 - Outils de régression linéaire (t-tests, ANOVA)
 - Méthodes de Clustering spatial (Moran’s i) & Spatial Filtering
@@ -68,7 +68,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Generalized additive & non-parametric models
 
 <br>
-## 📌 Mes "outils" Informatiques / Programmation
+## :computer: Mes "outils" Informatiques / Programmation
 
 - R (GeoSpatial, ...) 
 - SQL(MariaDB)
