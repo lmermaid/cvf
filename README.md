@@ -69,11 +69,11 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 ## 📌 Mes outils Informatiques / Programmation
 <br>
 
--R 
--SQL 
--Stata 
--Python 
--Linux/Win/Mac
+- R 
+- SQL 
+- Stata 
+- Python 
+- Linux/Win/Mac
 
 
 ## 📌 Volunteering
