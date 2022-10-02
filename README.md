@@ -20,7 +20,7 @@ en évidence de nouveaux faits stylisés.
 
 ![Universités](/assets/images/BNR.png)
 
-<br>
+<br><br>
 **Doctorante (PhD)** @ [GREDEG / UCA&CNRS](https://gredeg.univ-cotedazur.fr) _(Sept 2015 - Déc 2020)_<br>
 
 Ce doctorat s’intéresse aux rôles des réseaux d’intégration économique
