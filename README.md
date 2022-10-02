@@ -4,9 +4,8 @@ _Economiste / Experte en données :fr:_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
 
-<br>
+<br><br>
 ## 👩🏼‍💻 Postes 
-<br>
 
 **Adj. au chef de bureau "Industrie & Innovation"** @ [Direction Générale du Trésor](https://www.tresor.economie.gouv.fr/) _(Sept 2021 - Présent)_<br>
 
@@ -41,7 +40,7 @@ d’économétrie spatiale sur panels.
 Evaluation des potentiels scientifiques et technologiques des départements des
 Alpes-Maritimes et Bouches-du-Rhône.
 
-<br>
+<br><br>
 ## :woman_student: Parcours Universitaire 
 <br>
 
