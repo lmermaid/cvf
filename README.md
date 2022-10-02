@@ -75,7 +75,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Spatial models
 - Generalized additive & non-parametric models
 
-<br><br>
+<br>
 ## :computer: Mes "outils" Informatiques / Programmation
 
 - R (GeoSpatial, ...) 
@@ -86,7 +86,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Git
 - Linux/Win/Mac
 
-<br><br>
+<br>
 ## 📌 Volontariat
 
 - Educador : Brigada de Voluntarios Bolivarianos del Perú (Juil.- Août 2014)
