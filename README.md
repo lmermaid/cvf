@@ -86,7 +86,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Git
 - Linux/Win/Mac
 
-<br>
+<br><br>
 ## 📌 Volontariat
 
 - Educador : Brigada de Voluntarios Bolivarianos del Perú (Juil.- Août 2014)
