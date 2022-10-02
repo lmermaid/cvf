@@ -88,9 +88,9 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 <br><br>
 ## :tongue: Langues
 
-- :french: Francais
-- :english: Anglais (TOEFL : 2014 -96/120)
-- :spanish: Espagnol
+- :fr: Francais
+- 🇬🇧 Anglais (TOEFL : 2014 -96/120)
+- :es: Espagnol
 
 <br><br>
 ## 📌 Volontariat
