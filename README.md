@@ -86,6 +86,13 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Linux/Win/Mac
 
 <br><br>
+## :tongue: Langues
+
+- :french: Francais
+- :english: Anglais (TOEFL : 2014 -96/120)
+- :spanish: Espagnol
+
+<br><br>
 ## 📌 Volontariat
 
 - Educador : Brigada de Voluntarios Bolivarianos del Perú (Juil.- Août 2014)
