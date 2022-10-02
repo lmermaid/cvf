@@ -56,6 +56,8 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Antonio Musolesi (Pr Università degli Studi di Ferrara)
 - Lionel Nesta (Pr UCA)
 
+[Document de thèse](The War on Sex](https://www.theses.fr/2020COAZ0008)
+
 **Summer School of Econometrics** Barcelona School of Economics (2016)
 
 **Master Economie de l’Innovation** UCA (2013-2015)
@@ -86,6 +88,10 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 <br><br>
 ## 📌 Volontariat
+
+- Educador : Brigada de Voluntarios Bolivarianos del Perú (Juil.- Août 2014)
+
+Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d'autres cultures.
 <br>
 
 Pérou  ...
