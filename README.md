@@ -34,7 +34,7 @@ d’économétrie spatiale sur panels.
 - Introduction à l’économétrie (t-tests, ANOVA) (en L3 ; 2015)
 - Statistiques (calculs de moyennes, statistiques conditionnelles...) (en L1 ; 2018)
 
-<br>
+<br><br>
 **Chargée d'étude** @ [Eurolio](https://www.univ-st-etienne.fr/fr/gate-lse/eurolio-2.html) _(2015)_<br>
 
 Evaluation des potentiels scientifiques et technologiques des départements des
