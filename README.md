@@ -55,7 +55,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Antonio Musolesi (Pr Università degli Studi di Ferrara)
 - Lionel Nesta (Pr UCA)
 
-[Document de thèse](https://www.theses.fr/2020COAZ0008)
+[Document de thèse : https://www.theses.fr/2020COAZ0008](https://www.theses.fr/2020COAZ0008)
 
 **Summer School of Econometrics** Barcelona School of Economics (2016)
 
