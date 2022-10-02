@@ -93,5 +93,3 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d'autres cultures.
 <br>
-
-Pérou  ...
