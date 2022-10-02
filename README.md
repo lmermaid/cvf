@@ -95,7 +95,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 <br><br>
 ## 📌 Volontariat
 
-- Educador : Brigada de Voluntarios Bolivarianos del Perú (:PE: Juil.- Août 2014)
+- Educador : Brigada de Voluntarios Bolivarianos del Perú (:peru: Juil.- Août 2014)
 
 Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d'autres cultures.
 <br>
