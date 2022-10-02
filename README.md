@@ -75,7 +75,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Spatial models
 - Generalized additive & non-parametric models
 
-<br>
+<br><br>
 ## :computer: Mes "outils" Informatiques / Programmation
 
 - R (GeoSpatial, ...) 
