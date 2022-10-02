@@ -79,11 +79,13 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - R (GeoSpatial, ...) 
 - SQL(MariaDB)
 - Stata 
-- Python 
+- Python
+- LaTeX
+- Git
 - Linux/Win/Mac
 
 <br><br>
-## 📌 Volunteering
+## 📌 Volontariat
 <br>
 
 Pérou  ...
