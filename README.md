@@ -2,7 +2,7 @@
 
 _Economiste / Experte en données :fr:_ <br>
 
-[Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/) / [Twitter](https://twitter.com/lisamenez/) 
+[Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/)
 
 <br><br>
 ## 👩🏼‍💻 Postes 
