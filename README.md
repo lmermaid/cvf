@@ -1,6 +1,6 @@
 # Lisa MENEZ
 
-_Economiste / Experte en données :fr:_ <br>
+_Economiste / Data scientist :fr:_ <br>
 
 [Email](mailto:lisa.menez@free.fr) / [Website](https://lmermaid.github.io/cv_eng) / [LinkedIn](https://www.linkedin.com/in/lisa-menez-10b6631ba/) / [GitHub](https://github.com/lmermaid/)
 
@@ -51,13 +51,17 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 **Jury** :
 - Catherine Baumont (Pr Université de Bourgogne)
-- Flora Bellone (Pr UCA)
+- Flora Bellone (Pr Université Côte d'Azur (UCA))
 - Antonio Musolesi (Pr Università degli Studi di Ferrara)
-- Lionel Nesta (Pr UCA)
+- Lionel Nesta (Pr Université Côte d'Azur (UCA))
 
 [Document de thèse : https://www.theses.fr/2020COAZ0008](https://www.theses.fr/2020COAZ0008)
 
-**Summer School of Econometrics** Barcelona School of Economics (2016)
+**Summer School of Econometrics** Barcelona School of Economics (2016) 
+- Méthodes linéaires sur panels
+- Econométrie sur données annuelles; Applications
+- Modèles de panels dynamiques et non linéaires
+- Méthodes quantitatives d’évaluation des politiques publiques
 
 **Master Economie de l’Innovation** UCA (2013-2015)
 
@@ -75,7 +79,7 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 - Generalized additive & non-parametric models
 
 <br><br>
-## :computer: Mes "outils" Informatiques / Programmation
+## :computer: Mes "outils" informatiques / Programmation
 
 - R (GeoSpatial, ...) 
 - SQL(MariaDB)
@@ -99,3 +103,10 @@ bénéfices régionaux à l’agglomération : le cas européen*"
 
 Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d'autres cultures.
 <br>
+
+
+## Documents de travail 
+<br><br>
+Menez (2020) Exploiting Spatial Filtering Methods for Tracing Space-Time Developments : Experiments on Regional Income Disparities in the EU-28
+
+The aim of this article is to update the study of the dynamics of European regional wealth inequalities over time and space. This purpose is achieved by using the Exact Approach to obtain Moran’s spatial autocorrelation index’s true distributions. Our work looks at the Enlarged Europe from 2000 to 2016 using an alternative exact method to the permutation technique used in LeGallo and Ertur (2003)’s seminal paper. We highlight the polarization that took place over the European territory at the beginning of the period (2000-2004). We then observe a slowdown in the concentration processes starting from 2009. In a second step, we further exploit the Exact Approach in confronting different forms of spatial interdependencies that could influence spatial disparities’ patterns.
