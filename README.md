@@ -105,7 +105,7 @@ Il s'agissait d'initier de jeunes péruviens à l'anglais et à la découverte d
 <br>
 
 
-## Documents de travail 
+## :bookmark: Documents de travail 
 
 - **Menez (2020) Exploiting Spatial Filtering Methods for Tracing Space-Time Developments : Experiments on Regional Income Disparities in the EU-28**
 
